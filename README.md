@@ -52,3 +52,5 @@ This package comes with an installer that makes things extremely easy:
 ```
 
 Once the installer is complete, you will be able to use both the anonsurf and pandora modules.
+
+## Credit to all original authors
